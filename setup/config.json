@@ -1,0 +1,9 @@
+{
+    "extensions": [
+        "GitHub.vscode-pull-request-github",
+        "GitHub.remotehub",
+        "bierner.markdown-preview-github-styles",
+        "GitHub.github-vscode-theme",
+        "ms-vscode.PowerShell"
+    ]
+}
