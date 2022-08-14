@@ -20,6 +20,7 @@ RUN echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/githubcli-archive-keyrin
 RUN apt update
 RUN apt install gh
 
+    
 USER openvscode-server
 
 # Default exposed port if none is specified
